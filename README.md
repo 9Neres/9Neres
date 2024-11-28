@@ -21,10 +21,11 @@
 
 <h2>Biography:</h2>
 
+<div>
 <img align="center" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/us.png"> Hello, I'm 18 years old and I live in Goiânia - GO, I'm an enthusiast of the world of technology, I love ice cream, and the more I learn, the more frustrated I get, the more I love the world of programming and love study!
 
 <img align="center" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/br.png">  Olá, tenho 18 anos e moro em Goiânia - GO, sou um entusiasta do mundo da tecnologia, adoro sorvete, e quanto mais aprendo mais frustrado fico mas amo o mundo de programaçãoe e amo estudar!
-
+</div>
 
 <h2>Statistics:</h2>
 
@@ -40,5 +41,4 @@
   <a href="https://www.youtube.com/@9Neres" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:ricardoborgescontact@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardo-borges-6048ab247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
