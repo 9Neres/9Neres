@@ -15,16 +15,15 @@
 
 </div>
 
-- 🧰 Estudando Java & JavaScript.   
-- 🎨 Estudante da UniFasam-BR.
-- 🎠 Adoro técnologia e arte.
+- 🧰 Study Java & AWS.   
+- 🎨 University UniFasam-BR.
+- 🎠 I like tecnologic and art.
 
 <h2>Biography:</h2>
 
 <div>
 <img align="center" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/us.png"> Hello, I'm 18 years old and I live in Goiânia - GO, I'm an enthusiast of the world of technology, I love ice cream, and the more I learn, the more frustrated I get, the more I love the world of programming and love study!
 
-<img align="center" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/br.png">  Olá, tenho 18 anos e moro em Goiânia - GO, sou um entusiasta do mundo da tecnologia, adoro sorvete, e quanto mais aprendo mais frustrado fico mas amo o mundo de programaçãoe e amo estudar!
 </div>
 
 <h2>Statistics:</h2>
