@@ -10,8 +10,7 @@
  <code><img align="center" alt="Neres-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/></code>
  <code><img align="center" alt="Neres-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/></code>
  <code><img align="center" alt="Neres-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></code>
- <code><img align="center" alt="Neres-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" /></code>     
- <code><img align="center" alt="Neres-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" /></code>   
+
           
 </div>
 
