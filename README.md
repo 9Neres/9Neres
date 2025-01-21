@@ -14,7 +14,7 @@
           
 </div>
 
-- 🧰 Study Java & AWS.   
+- 🧰 Study now Java & Node.jS   
 - 🎨 University UniFasam-BR.
 - 🎠 I like tecnologic and art.
 
