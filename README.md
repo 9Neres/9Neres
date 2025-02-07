@@ -1,7 +1,6 @@
 <div class="profile-header">
-    <img  align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif" alt="Animated GIF" class="profile-gif right">
-    <img  align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Another Animated GIF" class="profile-gif left">
-  
+    <img  align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Another Animated GIF" class="profile-gif left">
+
    <ul class="profile-info">
       <li>🧰 Studying SQL & Node.js</li>
       <li>🎨 University UniFasam-BR</li>
@@ -9,13 +8,13 @@
     </ul>
   </div>
 
-<section class="Biography">
-   <h2>Biography:</h2>
+<section class="About me">
+   <h2>About me:</h2>
    <a>
-     <img align="left" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/us.png"> Hello, I'm 18 years old and I live in Goiânia - GO, I'm an enthusiast of the world of technology, I like learn, the more frustrated I get, the more I love the world of programming and love study!
+     <img align="left" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/us.png"> 
+     Hello, I'm 18 years old and I live in Goiânia - GO, I'm an enthusiast of the world of technology, I like learn, the more frustrated I get, the more I love the world of programming and love study!
    </a>
 </section>
-
 
 <section class="skills">
     <h2>Skills</h2>
@@ -25,12 +24,16 @@
       </a>
     </div>
  </section>
-
-<h2>Statistics:</h2>
+ 
+##
 
 <div>
   <a href="https://https://github.com/9Neres">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Neres&layout=compact&langs_count=7&theme=apprentice"/>
+  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=9Neres&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Neres&layout=compact&hide_border=true&title_color=58A6FF&text_color=58A6FF&bg_color=0d1117" />
+</div>
    
 </div>
   
