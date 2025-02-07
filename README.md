@@ -8,13 +8,13 @@
  <code><img align="center" alt="Neres-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></code>
  <code><img align="center" alt="Neres-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></code>
  <code><img align="center" alt="Neres-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/></code>
-  <code><img align="center" alt="Neres-mongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></code>
+  <code><img align="center" alt="Neres-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></code>
  <code><img align="center" alt="Neres-mongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /></code>
 
           
 </div>
 
-- 🧰 Study now Java & Node.jS   
+- 🧰 Study now SQL & Node.jS   
 - 🎨 University UniFasam-BR.
 - 🎠 I like tecnologic and art.
 
@@ -31,12 +31,17 @@
   <a href="https://https://github.com/9Neres">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=9Neres&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Neres&layout=compact&langs_count=7&theme=apprentice"/>
+   
 </div>
   
   ##
    E-mail: ricardoborgescontact@gmail.com
  ##
 <div> 
-  <a href="https://www.youtube.com/@9Neres" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardo-borges-6048ab247/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ [![Static Badge](https://img.shields.io/badge/youtube-black)](https://www.youtube.com/@9Neres)
+ [![Static Badge](https://img.shields.io/badge/twitter-black)](https://x.com/9Picon)
+ [![Static Badge](https://img.shields.io/badge/linkedin-black)](https://www.linkedin.com/in/ricardo-borges-6048ab247/)
+ [![Static Badge](https://img.shields.io/badge/instagram-black)](https://www.instagram.com/9.neres/)
+ 
 </div>
