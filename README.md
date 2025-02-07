@@ -1,35 +1,35 @@
-</div>
+<div class="profile-header">
+    <img  align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif" alt="Animated GIF" class="profile-gif right">
+    <img  align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="Another Animated GIF" class="profile-gif left">
+  
+   <ul class="profile-info">
+      <li>🧰 Studying SQL & Node.js</li>
+      <li>🎨 University UniFasam-BR</li>
+      <li>🎠 I like technology and art</li>
+    </ul>
+  </div>
 
-<img align="right" width="400px" src="https://i.pinimg.com/originals/70/9a/bf/709abf01d17e599c6319d4ffe5100d4c.gif" />
+<section class="Biography">
+   <h2>Biography:</h2>
+   <a>
+     <img align="left" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/us.png"> Hello, I'm 18 years old and I live in Goiânia - GO, I'm an enthusiast of the world of technology, I like learn, the more frustrated I get, the more I love the world of programming and love study!
+   </a>
+</section>
 
-## Technologies and Tools:<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/e8/1d/bc/e81dbc3….gif">slot
- 
- <code><img align="center" alt="Neres-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></code>
- <code><img align="center" alt="Neres-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></code>
- <code><img align="center" alt="Neres-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></code>
- <code><img align="center" alt="Neres-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/></code>
-  <code><img align="center" alt="Neres-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></code>
- <code><img align="center" alt="Neres-mongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" /></code>
 
-          
-</div>
-
-- 🧰 Study now SQL & Node.jS   
-- 🎨 University UniFasam-BR.
-- 🎠 I like tecnologic and art.
-
-<h2>Biography:</h2>
-
-<div>
-<img align="center" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/us.png"> Hello, I'm 18 years old and I live in Goiânia - GO, I'm an enthusiast of the world of technology, I love ice cream, and the more I learn, the more frustrated I get, the more I love the world of programming and love study!
-
-</div>
+<section class="skills">
+    <h2>Skills</h2>
+    <div>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,nodejs,c,html,css,mongodb,git,ai,pr,ps,vscode" alt="My Skills">
+      </a>
+    </div>
+ </section>
 
 <h2>Statistics:</h2>
 
 <div>
   <a href="https://https://github.com/9Neres">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=9Neres&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Neres&layout=compact&langs_count=7&theme=apprentice"/>
    
 </div>
