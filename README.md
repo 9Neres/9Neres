@@ -17,7 +17,13 @@
     <h2></h2>
     <div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,java,mysql,c,git,html,css,mongodb,ai,pr,ps,vscode" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=js,java,mysql,c,git,idea,vscode,html,css,mongodb,ai,pr,ps" alt="My Skills">
       </a>
     </div>
+    <h3>ricardoborgescontact@gmail.com</h3>
+    <a>
+      <img href="wa.link/xq6fsp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+    </a>
 </section>
+
+
