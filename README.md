@@ -17,7 +17,7 @@
     <h2></h2>
     <div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,java,mysql,c,git,idea,vscode,html,css,mongodb,ai,pr,ps" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=js,java,mysql,c,git,idea,vscode,html,css,mongodb,codepen,ai,pr,ps" alt="My Skills">
       </a>
     </div>
     <h3>ricardoborgescontact@gmail.com</h3>
