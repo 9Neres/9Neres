@@ -9,7 +9,7 @@
 <section align="center" class="Sobre Mim">
    <h2>Sobre Mim:</h2>
    <a>
-     <img align="left" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/br.png"> Olá, tenho 18 anos e moro em Goiânia - GO, sou um estudante de BD e data science, pelo Centro Universitário Sul-Americano, um entusiasta do mundo da tecnologia adoro de aprender, amo o mundo da programação e das IA.
+     <img align="left" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/br.png"> Olá, tenho 19 anos e moro em Goiânia - GO, sou um estudante de BD e data science, pelo Centro Universitário Sul-Americano, gosto do mundo da tecnologia adoro aprender, amo o mundo da programação e das IA.
    </a>
 </section>
 
