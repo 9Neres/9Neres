@@ -9,7 +9,7 @@
 <section align="center" class="Sobre Mim">
    <h2>Sobre Mim:</h2>
    <a>
-     <img align="left" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/br.png"> Olá, tenho 19 anos e moro em Goiânia - GO, sou um estudante de BD e data science, pelo Centro Universitário Sul-Americano, gosto do mundo da tecnologia adoro aprender, amo o mundo da programação e das IA.
+     <img align="left" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/br.png"> Olá, tenho 19 anos e moro em Goiânia - GO, sou um estudante de BD e desenvolvimento de software, pelo Centro Universitário Sul-Americano, amo o mundo da programação e das LLM. <br> Meu maior sonho e rodar o mundo e estudar nos centros de  inovação.
    </a>
 </section>
 
@@ -17,7 +17,7 @@
     <h2></h2>
     <div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker,azure,c,git,html,css,js,pr,ps" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mongodb,docker,azure,c,git,html,css,js,react" alt="My Skills">
       </a>
     </div>
     <h3>ricardoborgescontact@gmail.com</h3>
