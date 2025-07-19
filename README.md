@@ -21,4 +21,18 @@
       </a>
     </div>
     <h3>ricardoborgescontact@gmail.com</h3>
+
+  <div align="center">
+  <a href="https://www.linkedin.com/in/ricardo-neres-6048ab247/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/9Picon" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/9.neres/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</div>
 </section>
