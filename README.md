@@ -17,7 +17,7 @@
     <h2></h2>
     <div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgres,docker,git,github,ts,react" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgres,postman,docker,git,github,html,css,js" alt="My Skills">
       </a>
     </div>
     <h3>ricardoborgescontact@gmail.com</h3>
