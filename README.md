@@ -18,10 +18,7 @@
 <section align="center" class="Sobre Mim">
    
    <a>
-    🌍 - Estudante de Sistemas de Informação (19 anos) na Universidade Sul-Americana.
-    Desenvolvedor Back-end | Embaixador Universitário @DIO | Membro da comunidade Reactivando.<br><br>
-
-  Palestrante em diferentes áreas da tecnologia, com experiências abordando AGI e Deep Learning.
+    Olá, me chamo Ricardo, tenho 19 anos. faço Sistemas de Informação na Universidade Sul-Americana. | Membro da comunidade Reactivando.<br><br>
 
    Sonho em explorar o mundo, estudar em centros de inovação e criar conexões com pessoas que compartilham a mesma paixão por tecnologia e aprendizado.
 
