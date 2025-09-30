@@ -19,7 +19,7 @@
     <h2></h2>
     <div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgres,github,git,postman,html,css,docker,js" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgres,cloudflare,aws,github,git,postman,docker" alt="My Skills">
       </a>
     </div>
     <h3>ricardoborgescontact@gmail.com</h3>
@@ -35,10 +35,12 @@
 </div>
 </section>
 
+<!--
 <div>
-  <a href="https://https://github.com/9Neres">
+  <a href="https://github.com/9Neres">
   <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=9Neres&show_icons=true&count_private=true&hide_border=true&title_color=A9A9A9&icon_color=A9A9A9&text_color=A9A9A9&bg_color=0d1117" alt="" /> 
     <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Neres&layout=compact&hide_border=true&title_color=A9A9A9&text_color=A9A9A9&bg_color=0d1117"/>
   </div> 
 </div>
+-->
