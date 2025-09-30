@@ -1,6 +1,6 @@
 <div align = center>
 
-  <img src="x.jpg" alt="banner" width="400">
+  <img src="x.jpg" alt="banner" width="600">
 
 </div>
 
@@ -17,12 +17,12 @@
 <section align="center" class="Sobre Mim">
    <h2>Sobre Mim:</h2>
    <a>
-     <img align="left" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/br.png"> Estudante de **Sistemas de Informação** (19 anos) na Universidade Sul-Americana.
-    Desenvolvedor **Back-end** | **Embaixador Universitário @DIO** | Membro da comunidade **Reactivando**. <br><br>
+     <img align="left" alt="Neres-Js" height="25" width="25" src="https://www.bandeirasnacionais.com/data/flags/emoji/twitter/256x256/br.png"> Estudante de Sistemas de Informação (19 anos) na Universidade Sul-Americana.
+    Desenvolvedor Back-end | Embaixador Universitário @DIO | Membro da comunidade Reactivando.<br><br>
 
-    🎤 Palestrante em diferentes áreas da tecnologia, com experiências abordando **AGI** e **Deep Learning**.
+  Palestrante em diferentes áreas da tecnologia, com experiências abordando AGI e Deep Learning.
 
-🌍 Tenho como objetivo expandir meus conhecimentos em centros globais de inovação e construir conexões significativas com pessoas ao redor do mundo.
+    🌍 Sonho em explorar o mundo, estudar em centros de inovação e criar conexões com pessoas que compartilham a mesma paixão por tecnologia e aprendizado.
 
 
    </a>
