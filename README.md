@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="x.jpg" alt="banner" style="max-width: 100%; border-radius: 10px;">
 </div>
 
@@ -17,8 +17,6 @@
 
 <section align="center" class="Sobre Mim">
    
-   <h2>Sobre Mim:</h2>
-
    <a>
     🌍 - Estudante de Sistemas de Informação (19 anos) na Universidade Sul-Americana.
     Desenvolvedor Back-end | Embaixador Universitário @DIO | Membro da comunidade Reactivando.<br><br>
