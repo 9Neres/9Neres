@@ -19,7 +19,7 @@
     <h2></h2>
     <div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,postgres,cloudflare,aws,github,git,postman,docker" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=java,kotlin,spring,maven,hibernate,postgres,cloudflare,aws,github,git,postman,docker" alt="My Skills">
       </a>
     </div>
     <h3>ricardoborgescontact@gmail.com</h3>
