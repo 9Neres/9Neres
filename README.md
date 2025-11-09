@@ -35,7 +35,6 @@
 </div>
 </section>
 
-<!--
 <div>
   <a href="https://github.com/9Neres">
   <div align="center">  
@@ -43,4 +42,3 @@
     <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Neres&layout=compact&hide_border=true&title_color=A9A9A9&text_color=A9A9A9&bg_color=0d1117"/>
   </div> 
 </div>
--->
