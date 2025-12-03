@@ -6,20 +6,18 @@
 ##
 
 <section align="center" class="Sobre Mim">
-   
    <a>
-    Olá, me chamo Ricardo, tenho 19 anos. faço Sistemas de Informação na Universidade Sul-Americana. | Membro da comunidade Reactivando.<br><br>
+  Olá, me chamo Ricardo, tenho 19 anos e sou AWS Cloud Club Captain na Amazon Web Services. Já palestrei em eventos como o Reactivando e a Campus Party, curso Sistemas de Informação na Universidade Sul-Americana.<br><br>
+  I love building with Kotlin and Java.
+</a>
 
-   Sonho em explorar o mundo, estudar em centros de inovação e criar conexões com pessoas que compartilham a mesma paixão por tecnologia e aprendizado.
-
-   </a>
 </section>
 
 <section align="center" class="Tecnologias">
     <h2></h2>
     <div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,kotlin,spring,maven,hibernate,postgres,supabase,aws,github,git,postman,vercel" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=java,kotlin,spring,maven,hibernate,postgres,supabase,aws,vercel,github,git,postman" alt="My Skills">
       </a>
     </div>
     <h3>ricardoborgescontact@gmail.com</h3>
@@ -34,11 +32,3 @@
   </a>
 </div>
 </section>
-
-<div>
-  <a href="https://github.com/9Neres">
-  <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=9Neres&show_icons=true&count_private=true&hide_border=true&title_color=A9A9A9&icon_color=A9A9A9&text_color=A9A9A9&bg_color=0d1117" alt="" /> 
-    <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Neres&layout=compact&hide_border=true&title_color=A9A9A9&text_color=A9A9A9&bg_color=0d1117"/>
-  </div> 
-</div>
