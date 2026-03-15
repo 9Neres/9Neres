@@ -7,7 +7,7 @@
 
 <section align="center" class="Sobre Mim">
    <a>
-  Olá, me chamo Ricardo, tenho 19 anos e sou AWS Cloud Club Captain na Amazon Web Services. Já palestrei em eventos como o Reactivando e a Campus Party, curso Sistemas de Informação na Universidade Sul-Americana.<br><br>
+  Olá, me chamo Ricardo, tenho 20 anos trabalho na AUVP Capital e sou AWS Cloud Club Captain na Amazon Web Services. Já palestrei em eventos como a Campus Party, curso Sistemas de Informação na Universidade Sul-Americana.<br><br>
   I love building with Kotlin and Java.
 </a>
 
