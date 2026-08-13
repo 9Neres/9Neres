@@ -7,7 +7,7 @@
 
 <section align="center" class="Sobre Mim">
    <a>
-  Olá, me chamo Neres, tenho 20 anos. Trabalho com tech e sou AWS Student Group na Amazon Web Services. Já palestrei em eventos como a Campus Party e sou lider de uma comunidade com quase 700 membros em todas as redes sociais.
+  Olá, me chamo Neres, tenho 20 anos. Trabalho com tech e sou AWS Student Group na Amazon Web Services. Já palestrei em eventos como a Campus Party e sou lider de uma comunidade com quase 700 membros somando todas as redes sociais.
 </a>
 
 </section>
