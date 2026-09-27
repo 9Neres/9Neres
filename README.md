@@ -2,21 +2,11 @@
   <img src="x.jpg" alt="banner" style="max-width: 100%; border-radius: 10px;">
 </div>
 
-
-##
-
-<section align="center" class="Sobre Mim">
-   <a>
-  Olá, me chamo Neres, tenho 20 anos. Trabalho com tech e sou AWS Student Group na Amazon Web Services. Já palestrei em eventos como a Campus Party e sou lider de uma comunidade com quase 700 membros somando todas as redes sociais.
-</a>
-
-</section>
-
 <section align="center" class="Tecnologias">
     <h2></h2>
     <div>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,kotlin,spring,maven,hibernate,postgres,supabase,aws,vercel,github,git,postman" alt="My Skills">
+        <img src="https://skillicons.dev/icons?i=spring,angular,cloudflare,maven,hibernate,supabase,aws,vercel,github,git,postman,docker" alt="My Skills">
       </a>
     </div>
     <h3>ricardoborgescontact@gmail.com</h3>
